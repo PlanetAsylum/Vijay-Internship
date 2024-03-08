@@ -28,6 +28,7 @@
 
 /* ================================================== */
 
+
 html {
   overflow-x: hidden;
   padding: 0;
@@ -12706,7 +12707,7 @@ a.read_more i {
 
 .switch {
   margin-bottom: -5px;
-  -webkit-appearance: none;
+  
   height: 24px;
   width: 44px;
   background-color: #eeeeee;
@@ -15145,7 +15146,7 @@ a.btn-slider:hover {
   margin: 0 6px;
   display: inline-block;
   zoom: 1;
-  *display: inline;
+  display: inline;
 }
 
 .testi-slider .flex-control-paging li a {
@@ -16269,6 +16270,7 @@ img {
     top: 30%;
   }
 }
+
 
 /* -------------------------------------------------- 
     custom for 320px & 480px 
